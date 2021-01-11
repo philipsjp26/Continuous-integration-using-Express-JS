@@ -1,7 +1,7 @@
 ## How to use ?
 
 requirements: 
-> NPM or NVM
+> NPM or NVM </br>
 > Nodemon
 
 Installation:</br>
